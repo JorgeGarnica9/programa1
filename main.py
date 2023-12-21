@@ -1,5 +1,5 @@
 from calcular_cumple import calcularCumple
 
-segundos=calcularCumple(2024,5,2)
+minutos=calcularCumple(2024,5,2)
 
-print(segundos)
+print(f'Los minutos faltantes para tu cumple son: {minutos}')
